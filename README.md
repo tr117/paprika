@@ -1,1 +1,2 @@
 # paprika
+Itt gyakorolhatsz hozzájárulást. 
